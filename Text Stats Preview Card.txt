@@ -1,0 +1,19 @@
+.card__title
+ Get <span> insights </span> that help your business grow.
+
+.card__description
+ Discover the benefits of data analytics and make better decisions regarding revenue, customer 
+ experience, and overall efficiency.
+
+.card__info-title
+10k+
+314
+12m+
+
+.card__info-subtitle
+companies
+templates
+queries
+
+
+
